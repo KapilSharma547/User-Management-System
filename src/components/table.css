@@ -1,0 +1,22 @@
+.tableContainer {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.tableHeaderCell {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+.tableCell {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.tableRowEven {
+  background-color: #f9f9f9;
+}
+
+.editIcon {
+  cursor: pointer;
+}
